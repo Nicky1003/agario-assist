@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name        BestAgarBot
+// @namespace   AposBest
+// @description Plays Agar
+// @include     http://agar.io/
+// @version     1
+// @grant       none
+// @author      twitch.tv/apostolique
+// ==/UserScript==
+
 // Exported stuff
 window.onresize = onResize
 window.onload = init
